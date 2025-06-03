@@ -36,17 +36,22 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/juamolgue" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"       alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/juamolgue" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" style="vertical-align:middle;"/>
+    <span style="vertical-align:middle; font-size:13px; margin-right:25px;">linkedin.com/in/juamolgue</span>
   </a>
-  <a href="mailto:juamolgue@proton.me" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:juamolgue@proton.me">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" style="vertical-align:middle;"/>
+    <span style="vertical-align:middle; font-size:13px; margin-right:25px;">juamolgue@proton.me</span>
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40"        alt="discord logo"  />
-  <a href="https://paypal.me/juamolgue" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="20" style="vertical-align:middle;"/>
+  <span style="vertical-align:middle; font-size:13px; margin-right:25px;">juandamolino#2891</span>
+  <a href="https://paypal.me/juamolgue" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="20" style="vertical-align:middle;"/>
+    <span style="vertical-align:middle; font-size:13px;">paypal.me/juamolgue</span>
   </a>
-</div>
+</p>
+
 
 ###
